@@ -1,8 +1,6 @@
 clear
 close all
 
-addpath('data_and_exec')
-
 %% transmission signal
 M = 16;      % Modulation order
 k = log2(M); % Bits/symbol
